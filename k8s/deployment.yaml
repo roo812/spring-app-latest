@@ -16,4 +16,4 @@ spec:
         - name: spring-app
           image: IMAGE_URI # Replace with your ECR image later
           ports:
-            - containerPort: 8080
+            - containerPort: 80
